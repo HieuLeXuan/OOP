@@ -1,8 +1,8 @@
-ôn tập kiến thức cơ bản java core.
+# ôn tập kiến thức cơ bản java core.
 OOP,  sql server.
 cấu trúc dữ liệu và giải thuật.
 
-English:
+# English:
 to day by work.
 free time, reading books, playing soccer…
 family.
