@@ -11,16 +11,16 @@ family.
 
 # (OOP-Object-Oriented Programming)
 + kế thừa:
-+ thông qua từ khóa: extends
-+ có thể tạo một class mới được xây dựng thông qua các lớp đã tồn tại, có thể sử dụng các phương thức, thuộc tính của lớp cha đồng thời có thể triển khai các phương thức, thuộc tính khác.
+1 thông qua từ khóa: extends
+2 có thể tạo một class mới được xây dựng thông qua các lớp đã tồn tại, có thể sử dụng các phương thức, thuộc tính của lớp cha đồng thời có thể triển khai các phương thức, thuộc tính khác.
 + tại sao phải sử dụng?
-+ tăng tính tái sử dụng code
+1 tăng tính tái sử dụng code
 
-## đa hình 
-+ thông qua hai phương thức overriding và overloading
-## overloading:	
-+ được thể hiện trong cùng một lớp 
-+ định nghĩa cùng tên với class cha nhưng khác số lượng với method của class cha.
++ đa hình 
+1 thông qua hai phương thức overriding và overloading
++ overloading:	
+1 được thể hiện trong cùng một lớp 
+2 định nghĩa cùng tên với class cha nhưng khác số lượng với method của class cha.
 ## overriding:	
 + thể hiện ở lớp con 
 + tồn tại method cùng tên, cùng số lượng tham số với method của class cha
