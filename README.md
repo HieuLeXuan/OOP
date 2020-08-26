@@ -85,8 +85,8 @@
 	4. Phương thức isFull(): kiểm tra xem hàng đợi là đầy hay không.
 	5. Phương thức isEmpty(): kiểm tra xem hàng đợi là trống hay hay không.
 + search:
-	1. nhị phân
-	2. tuyến tính
+	1. nhị phân (Binary Search)
+	2. tuyến tính (Linear Search)	
 + sort:
 	1. bubble sort
 	2. selection sort
@@ -102,11 +102,13 @@
 	3. Ford-Fulkerson
 	
 # SQL
++ 
+***
 + inner joint
 	1. This query will return all of the records in the left table (table A) that have a matching record in the right table (table B)
 + left joint
 	1. This query will return all of the records in the left table (table A) regardless if any of those records have a match in the right table (table B)
 + right joint
 	1. This query will return all of the records in the left table (table B) regardless if any of those records have a match in the right table (table A)
-+ full joint
++ full joint (outer joint)
 	1. This query will return the joined result of all records in both tables
