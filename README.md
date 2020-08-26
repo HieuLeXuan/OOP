@@ -77,5 +77,22 @@ family.
 	5. các thuộc tính private của đối tượng được sử dụng để ẩn dấu thông tin về đối tượng đó
 	6. nếu không sử dụng đóng gói, trạng thái và hành vi của đối tượng có thể dễ dàng bị truy cập và thay đổi trạng thái
 # Cấu trúc dữ liệu và giải thuật
-+ stack:
++ stack (first in last out)
++ queue (first in first out)
++ search:
+	1. nhị phân
+	2. tuyến tính
++ sort:
+	1. bubble sort
+	2. selection sort
+	3. insertion sort
+	4. quick sort
+	5. merge sort
+	6. heap sort
+	7. radix sort
+	8. ...
++ graph:
+	1. Dijkstra
+	2. Bellman-Ford
+	3. Ford-Fulkerson
 	
