@@ -1,11 +1,6 @@
-# ôn tập kiến thức cơ bản java core.
-OOP,  sql server.
-cấu trúc dữ liệu và giải thuật.
+# OOP, sql server, cấu trúc dữ liệu và giải thuật.
 
-# English:
-to day by work.
-free time, reading books, playing soccer…
-family.
+# English, to day by work. Free time, reading books, playing socce. Family.
 
 
 
@@ -78,7 +73,17 @@ family.
 	6. nếu không sử dụng đóng gói, trạng thái và hành vi của đối tượng có thể dễ dàng bị truy cập và thay đổi trạng thái
 # Cấu trúc dữ liệu và giải thuật
 + stack (first in last out)
+	1. Hoạt động push(): lưu giữ một phần tử trên ngăn xếp.
+	2. Hoạt động pop(): xóa một phần tử từ ngăn xếp.
+	3. Phương thức peek(): lấy phần tử ở đầu hàng đợi, mà không xóa phần tử này.
+	4. Phương thức isFull(): kiểm tra xem hàng đợi là đầy hay không.
+	5. Phương thức isEmpty(): kiểm tra xem hàng đợi là trống hay hay không.
 + queue (first in first out)
+	1. Hoạt động enqueue(): thêm (hay lưu trữ) một phần tử vào trong hàng đợi.
+	2. Hoạt động dequeue(): xóa một phần tử từ hàng đợi.
+	3. Phương thức peek(): lấy phần tử ở đầu hàng đợi, mà không xóa phần tử này.
+	4. Phương thức isFull(): kiểm tra xem hàng đợi là đầy hay không.
+	5. Phương thức isEmpty(): kiểm tra xem hàng đợi là trống hay hay không.
 + search:
 	1. nhị phân
 	2. tuyến tính
@@ -98,6 +103,10 @@ family.
 	
 # SQL
 + inner joint
+	1. This query will return all of the records in the left table (table A) that have a matching record in the right table (table B)
 + left joint
+	1. This query will return all of the records in the left table (table A) regardless if any of those records have a match in the right table (table B)
 + right joint
+	1. This query will return all of the records in the left table (table B) regardless if any of those records have a match in the right table (table A)
 + full joint
+	1. This query will return the joined result of all records in both tables
