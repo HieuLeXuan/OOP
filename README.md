@@ -96,3 +96,8 @@ family.
 	2. Bellman-Ford
 	3. Ford-Fulkerson
 	
+# SQL
++ inner joint
++ left joint
++ right joint
++ full joint
